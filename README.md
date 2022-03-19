@@ -1,4 +1,4 @@
-# Final Project - Handout Donation Stories
+# Final Project - Crowdfundings
 
 
 ## About the Application
@@ -8,7 +8,7 @@
 3. This site will be used for donating money or other charity items to the needy.
 4. The exclusive feature of this application will be exempting the tax amounts on the donated money.
 
-## User Stories
+## User Storises
 1. An user should be able to sign up sucessfully to the application.
 2. An user should be able to enter correct inputs on the sign up page and validate all details correctly.
 3. An user should be able to navigate to different pages using the navigation bar.
